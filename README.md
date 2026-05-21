@@ -6,4 +6,5 @@ Key features include:
 * Clean and responsive user interface.
 * Real-time text-to-audio conversion.
 * Support for long paragraphs and complex text.
+<br>
 This project demonstrates skills in frontend web development, JavaScript APIs, UI design, and user experience development.
